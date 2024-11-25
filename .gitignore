@@ -1,0 +1,4 @@
+input/
+__pycache__/
+data/
+configs/
