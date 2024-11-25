@@ -6,6 +6,7 @@ This repository provides an image annotation tool built with Streamlit for A/B i
 
 ## Features
 
+- **Collaborative Annotations**: Supports multiple users working on the same project simultaneously, with unique author tracking for each annotation.
 - **Efficient Workflow**: Pre-generated annotation pairs ensure smooth and fast annotation.
 - **Duplicate-Free Comparisons**: Avoid repeated annotations for the same image pairs.
 - **Multi-Project Support**: Manage and switch between multiple projects with ease.
@@ -27,7 +28,7 @@ The tool requires a specific directory structure for input images and annotation
 │   ├── annotate.py
 │   ├── ...
 ├── .gitignore
-├── Dockefile
+├── LICENCE
 ├── ...
 ```
 
